@@ -12,3 +12,4 @@
 _________________________________________________________
 
 <h4>Currently, I am working on a project that I design a Connect4 game using scratch. Today I designed the sprites without writing any code. I imported a board image and a table image from the internet to create my own sprites. The other sprites I chose from Scrath's library. Here is the image:</h4>
+![My Design in Scratch](file:///Users/ataalaca/Desktop/Screenshot%202024-09-03%20at%2022.47.35.png)
