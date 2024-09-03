@@ -5,12 +5,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <a href="https://github.com/fahirataalaca/fahirataalaca.github.io/blob/Develop-in-Swift/README.md"> Develop in Swift </a></p3>
-
+ 
 </head>
 
 <body>
   <h1>Fahir Ata Alaca</h1>
+   <a href="https://github.com/fahirataalaca/fahirataalaca.github.io/blob/main/DEVELOP.md"> Develop in Swift </a></p3>
+ <a href=""> Website Developing Documentation </a></p3>
+ <a href=""> CS50 Course </a></p3>
+ <a href=""> Home </a></p3>
+
   _____________________________________________
   <p></p>
   <h3>About Me...</h3>
