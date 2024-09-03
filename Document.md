@@ -8,7 +8,7 @@
    <a href="https://fahirataalaca.github.io/"> Home </a>
     <p></p>
    <a href="https://github.com/fahirataalaca/fahirataalaca.github.io/blob/main/Projects.md"> Projects </a>
-
+<p></p>
 <l1>
   I started to build this webpage at 2.9.2024
   <p></p>
